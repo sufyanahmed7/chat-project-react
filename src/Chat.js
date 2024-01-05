@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import "./Chat.css";
-import AccountCircleIcon from "@mui/icons-material/AccountCircle";
+// import AccountCircleIcon from "@mui/icons-material/AccountCircle";
 import MoreVertIcon from "@mui/icons-material/MoreVert";
 import { IconButton } from "@mui/material";
 import InsertEmoticonIcon from "@mui/icons-material/InsertEmoticon";
