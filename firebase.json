@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "chat-project-react",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
